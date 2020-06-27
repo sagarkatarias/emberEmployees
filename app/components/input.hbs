@@ -1,0 +1,15 @@
+<div class="container card col-6">
+    <div class="row">
+        <p class="col-sm pt-2">
+            Please Provide a URL
+        </p>
+        <input type="text" class="form-control col-sm" id="basic-url" placeholder="API URL">
+        <div class="col-sm">
+            <button class="btn btn-link btn-block" type="button">
+                <LinkTo @route="employee" @model={{this.url}}>
+                    Load Data
+                </LinkTo>
+            </button>
+        </div>
+    </div>
+</div>
