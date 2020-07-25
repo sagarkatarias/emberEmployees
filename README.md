@@ -1,7 +1,6 @@
 # crafts-drive
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Use https://my.api.mockaroo.com/users.json?key=1bbe8ff0 link in the application to display data
 
 ## Prerequisites
 
